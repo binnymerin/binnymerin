@@ -1,4 +1,6 @@
-&#x20;\<p align="center">   \<img src="git%20banner.png" width="100%" alt="Binny Merin Thomas - Full Stack Developer"> \</p>
+ <p align="center">
+  <img src="git%20banner.png" width="100%" alt="Binny Merin Thomas - Full Stack Developer">
+</p>
 
 # Hi, I'm Binny Merin Thomas 👋
 
@@ -25,32 +27,27 @@ I'm continuously improving my full-stack development skills and looking for oppo
 ## 🛠️ Technical Skills
 
 **Programming Languages**
-
 - Python
 - JavaScript
 - C
 - SQL
 
 **Frontend Development**
-
 - HTML
 - CSS
 - React.js
 - Tailwind CSS
 
 **Backend Development**
-
 - Django
 - Django REST Framework
 - REST APIs
 
 **Databases**
-
 - MySQL
 - MongoDB
 
 **Tools**
-
 - Git
 - GitHub
 - Postman
@@ -129,18 +126,18 @@ Faith InfoTech, Technopark
 
 ## 📊 GitHub Stats
 
-\<p align="center">
-&#x20; \<img src="[https://github-readme-stats.vercel.app/api?username=binnymerin&show_icons=true&theme=tokyonight](https://github-readme-stats.vercel.app/api?username=binnymerin\&show_icons=true\&theme=tokyonight)" height="180"/>
-&#x20; \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=binnymerin&layout=compact&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=binnymerin\&layout=compact\&theme=tokyonight)" height="180"/>
-\</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=binnymerin&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binnymerin&layout=compact&theme=tokyonight" height="180"/>
+</p>
 
 ---
 
 ## 🔥 Contribution Streak
 
-\<p align="center">
-&#x20; \<img src="[https://github-readme-streak-stats.herokuapp.com/?user=binnymerin&theme=tokyonight](https://github-readme-streak-stats.herokuapp.com/?user=binnymerin\&theme=tokyonight)" alt="GitHub Streak"/>
-\</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=binnymerin&theme=tokyonight" alt="GitHub Streak"/>
+</p>
 
 ---
 
