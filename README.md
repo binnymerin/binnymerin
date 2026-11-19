@@ -44,7 +44,7 @@ I'm currently improving my full-stack development skills and looking for opportu
 ### Tools
 - Git
 - GitHub
-- Postman  ---
+- Postman  
 
 ---
 
