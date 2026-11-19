@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="git%20banner.png" width="100%" alt="Binny Merin Thomas - Full Stack Developer">
+</p>
 # Hi, I'm Binny Merin Thomas 👋
 
 ### Aspiring Full Stack Developer | MCA Student
