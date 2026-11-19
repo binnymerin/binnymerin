@@ -1,6 +1,7 @@
-<p align="center">
+ <p align="center">
   <img src="git%20banner.png" width="100%" alt="Binny Merin Thomas - Full Stack Developer">
 </p>
+
 # Hi, I'm Binny Merin Thomas 👋
 
 ### Aspiring Full Stack Developer | MCA Student
@@ -120,6 +121,23 @@ MACFAST, Thiruvalla
 **Django Web Development Intern**
 
 Faith InfoTech, Technopark
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=binnymerin&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binnymerin&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=binnymerin&theme=tokyonight" alt="GitHub Streak"/>
+</p>
 
 ---
 
