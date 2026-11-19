@@ -6,7 +6,7 @@ I'm an MCA student passionate about building modern web applications and learnin
 
 I enjoy developing practical projects using Python, Django, React and MySQL.
 
-I'm currently improving my full-stack development skills and looking for opportunities to grow as a Software Developer.
+I'm continuously improving my full-stack development skills and looking for opportunities to grow as a Software Developer.
 
 ---
 
@@ -14,37 +14,39 @@ I'm currently improving my full-stack development skills and looking for opportu
 
 - 🎓 MCA Student (2025–2027)
 - 💻 Interested in Full Stack Development
-- 🌱 Currently learning and improving Django, React and REST APIs
+- 🌱 Learning and improving Django, React and REST APIs
 - 🚀 Interested in building real-world applications
-- 🤝 Open to Internship and Software Developer opportunities  
+- 🤝 Open to Internship and Software Developer opportunities
+
+---
 
 ## 🛠️ Technical Skills
 
-### Programming Languages
+**Programming Languages**
 - Python
 - JavaScript
 - C
 - SQL
 
-### Frontend Development
+**Frontend Development**
 - HTML
 - CSS
 - React.js
 - Tailwind CSS
 
-### Backend Development
+**Backend Development**
 - Django
 - Django REST Framework
 - REST APIs
 
-### Databases
+**Databases**
 - MySQL
 - MongoDB
 
-### Tools
+**Tools**
 - Git
 - GitHub
-- Postman  
+- Postman
 
 ---
 
@@ -59,7 +61,7 @@ I'm currently improving my full-stack development skills and looking for opportu
 
 **Technologies:** Django REST Framework, React.js, Tailwind CSS, MySQL
 
-[View Project](https://github.com/binnymerin/AutoAssist_AI)
+🔗 [View Project](https://github.com/binnymerin/AutoAssist_AI)
 
 ### 2. FitSync – Smart Gym Management System
 
@@ -67,7 +69,7 @@ I'm currently improving my full-stack development skills and looking for opportu
 - Includes AI-based personalized fitness recommendations.
 - Responsive web and cross-platform mobile application.
 
-**Technologies:** React.js and mobile application technologies.
+**Technologies:** React.js and planned mobile application technologies.
 
 **Status:** In Progress
 
@@ -78,18 +80,45 @@ I'm currently improving my full-stack development skills and looking for opportu
 
 **Technologies:** Django, HTML, CSS
 
+🔗 [View Project](https://github.com/binnymerin/studentmgt)
+
 ### 4. Vehicle Management System
 
 - A web application developed to manage vehicle-related information.
 - Helps organize and maintain vehicle records.
 
-**Technologies:** PHP, MySQL, CSS   ---
+**Technologies:** PHP, MySQL, CSS
+
+🔗 [View Project](https://github.com/binnymerin/vehiclemgt)
+
+### 5. Clinic Management System
+
+- Developed as part of my Django Web Development internship at Faith InfoTech, Technopark.
+- Built using Django and React.js.
+
+**Technologies:** Python, Django, React.js
+
+🔗 [View Project](https://github.com/binnymerin/CMS)
+
+---
 
 ## 🎓 Education
 
-**Master of Computer Applications (MCA)**  
-MACFAST, Thiruvalla  
-2025 – 2027  ---
+**Master of Computer Applications (MCA)**
+
+MACFAST, Thiruvalla
+
+2025 – 2027
+
+---
+
+## 💼 Internship
+
+**Django Web Development Intern**
+
+Faith InfoTech, Technopark
+
+---
 
 ## 🌐 Connect With Me
 
