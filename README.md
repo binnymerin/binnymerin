@@ -16,7 +16,7 @@ I'm currently improving my full-stack development skills and looking for opportu
 - 💻 Interested in Full Stack Development
 - 🌱 Currently learning and improving Django, React and REST APIs
 - 🚀 Interested in building real-world applications
-- 🤝 Open to Internship and Software Developer opportunities  ---
+- 🤝 Open to Internship and Software Developer opportunities  
 
 ## 🛠️ Technical Skills
 
