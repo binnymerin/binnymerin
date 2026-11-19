@@ -52,7 +52,7 @@ I'm continuously improving my full-stack development skills and looking for oppo
 - GitHub
 - Postman
 
----## 💻 Technologies & Tools
+## 💻 Technologies & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,react,js,html,css,tailwind,mysql,mongodb,git,github,postman" />
