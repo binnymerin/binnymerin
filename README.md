@@ -1,4 +1,6 @@
-# Hi, I'm Binny Merin Thomas 👋
+<p align="center">
+  <img src="git%20banner.png" width="100%" alt="Binny Merin Thomas GitHub Banner" />
+</p># Hi, I'm Binny Merin Thomas 👋
 
 ### MCA Student | Python & Django Full-Stack Developer | Open to Internships
 
