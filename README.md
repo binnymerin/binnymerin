@@ -1,155 +1,86 @@
- <p align="center">
-  <img src="git%20banner.png" width="100%" alt="Binny Merin Thomas - Full Stack Developer">
-</p>
-
 # Hi, I'm Binny Merin Thomas 👋
 
-### Aspiring Full Stack Developer | MCA Student
+### MCA Student | Python & Django Full-Stack Developer | Open to Internships
 
-I'm an MCA student passionate about building modern web applications and learning new technologies.
+I'm an MCA student passionate about developing practical web applications using Python, Django, Django REST Framework, and React.
 
-I enjoy developing practical projects using Python, Django, React and MySQL.
+Currently gaining hands-on experience as a Django Web Development Intern at Faith InfoTech, Technopark.
 
-I'm continuously improving my full-stack development skills and looking for opportunities to grow as a Software Developer.
-
----
-
-## 👩‍💻 About Me
-
-- 🎓 MCA Student (2025–2027)
-- 💻 Interested in Full Stack Development
-- 🌱 Learning and improving Django, React and REST APIs
-- 🚀 Interested in building real-world applications
-- 🤝 Open to Internship and Software Developer opportunities
+I'm actively looking for internship opportunities to improve my skills and contribute to real-world projects.
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-**Programming Languages**
-- Python
-- JavaScript
-- C
-- SQL
-
-**Frontend Development**
-- HTML
-- CSS
-- React.js
-- Tailwind CSS
-
-**Backend Development**
-- Django
-- Django REST Framework
-- REST APIs
-
-**Databases**
-- MySQL
-- MongoDB
-
-**Tools**
-- Git
-- GitHub
-- Postman
-
-## 💻 Technologies & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,react,js,html,css,tailwind,mysql,mongodb,git,github,postman" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,django,react,vite,reactnative,mysql,html,css,js,git" alt="Tech stack" />
 </p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Django%20REST%20Framework-red?style=flat-square" alt="Django REST Framework" />
+  <img src="https://img.shields.io/badge/scikit--learn-orange?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+</p>
+
+---
 
 ## 🚀 Featured Projects
 
-### 1. AutoAssist – Smart Vehicle Repair Shop Locator and Service Booking System
+### 1. FindBack – AI-Powered Lost and Found Platform
 
-- Helps users find nearby vehicle repair shops.
-- Includes service booking and booking status tracking.
-- AI-based repair shop recommendations.
-- Emergency breakdown assistance.
+An MCA major project designed to help users report, search, and recover lost items using AI-assisted matching.
 
-**Technologies:** Django REST Framework, React.js, Tailwind CSS, MySQL
-
-🔗 [View Project](https://github.com/binnymerin/AutoAssist_AI)
+- **Tech Stack:** React, Vite, Django REST Framework, MySQL, scikit-learn
+- **Repository:** Coming Soon
 
 ### 2. FitSync – Smart Gym Management System
 
-- Developing a gym management system for Admin, Trainer and Member roles.
-- Includes AI-based personalized fitness recommendations.
-- Responsive web and cross-platform mobile application.
+A smart gym management solution developed for BE_FIT Gym, featuring a responsive web application and an Android mobile application.
 
-**Technologies:** React.js and planned mobile application technologies.
+- **Tech Stack:** React, React Native, Django REST Framework, MySQL
+- **Scope:** 12 modules for Admin, Trainer, and Member workflows, including AI-based fitness recommendations.
+- **Repository:** Coming Soon
 
-**Status:** In Progress
+### 3. AutoAssist AI – Smart Vehicle Assistance Platform
 
-### 3. Student Management System
+A vehicle assistance and repair-shop booking platform with three main modules: Customer, Repair Shop, and Admin.
 
-- A web application developed to manage student information and academic records.
-- Helps organize and maintain student details.
-
-**Technologies:** Django, HTML, CSS
-
-🔗 [View Project](https://github.com/binnymerin/studentmgt)
-
-### 4. Vehicle Management System
-
-- A web application developed to manage vehicle-related information.
-- Helps organize and maintain vehicle records.
-
-**Technologies:** PHP, MySQL, CSS
-
-🔗 [View Project](https://github.com/binnymerin/vehiclemgt)
-
-### 5. Clinic Management System
-
-- Developed as part of my Django Web Development internship at Faith InfoTech, Technopark.
-- Built using Django and React.js.
-
-**Technologies:** Python, Django, React.js
-
-🔗 [View Project](https://github.com/binnymerin/CMS)
+- **Tech Stack:** React, Django REST Framework, MySQL
+- **Features:** Nearby repair shops, service booking, AI recommendations, and emergency assistance.
+- **Repository:** [AutoAssist AI](https://github.com/binnymerin/AutoAssist_AI)
 
 ---
 
-## 🎓 Education
+## 💼 Experience
 
-**Master of Computer Applications (MCA)**
-
-MACFAST, Thiruvalla
-
-2025 – 2027
-
----
-
-## 💼 Internship
-
-**Django Web Development Intern**
-
+**Django Web Development Intern**  
 Faith InfoTech, Technopark
+
+- Gaining practical experience in Django web development.
+- Learning to build and work with REST APIs.
+- Using Postman for API testing.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=binnymerin&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binnymerin&layout=compact&theme=tokyonight" height="180"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=binnymerin&show_icons=true&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=binnymerin&hide_border=true" alt="GitHub Streak" />
 </p>
-
----
-
-## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=binnymerin&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binnymerin&layout=compact&hide_border=true&hide=HTML,CSS" alt="Top Languages" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 📫 Connect With Me
 
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/binny-merin-thomas-07871a273/)
-- **GitHub:** [GitHub Profile](https://github.com/binnymerin)
+- **LinkedIn:** [Binny Merin Thomas](https://www.linkedin.com/in/binny-merin-thomas-07871a273/)
+- **Email:** Add your email address
+- **Portfolio:** [binny-portfolio.vercel.app](https://binny-portfolio.vercel.app/)
+- **GitHub:** [binnymerin](https://github.com/binnymerin)
 
 ---
 
-⭐ Always learning, building and improving!
+*Always learning, building, and improving.*
